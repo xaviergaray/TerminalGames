@@ -25,3 +25,13 @@ Uses std::map to relate each "body part" to a set of coordinates. When character
 
 TODO:
 * Add posion apples
+
+## Rocket Defense
+### Notes
+* GetPosition() returns top left portion of actor body
+
+TODO:
+* Movement
+* Spawn Aliens
+* Health
+* Shooting
