@@ -12,6 +12,7 @@ TODO:
 Currently have Snake
 
 TODO:
+* Rocket Defense
 * PacMan
 * Connect4
 * Sudoku
