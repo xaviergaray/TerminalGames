@@ -1,6 +1,9 @@
 # TerminalGames
 Compilation of various games made during my freetime that run on the Windows terminal.
 
+## CoreMinimum.h
+Includes basic functions that are repeated several times across most source files.
+
 ## Game Selection
 Allows users to select games using terminal GUI.
 
